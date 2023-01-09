@@ -10,8 +10,10 @@ btnInc.addEventListener("click", () => {
 });
 
 btnDec.addEventListener("click", () => {
-  num--;
-  count.innerText = num;
+  if (num > 0) {
+    num--;
+    count.innerText = num;
+  }
 });
 
 reset_btn.addEventListener("click", () => {
