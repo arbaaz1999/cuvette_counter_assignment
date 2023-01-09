@@ -27,3 +27,13 @@
   font-size: 100px;
   cursor: pointer;
 }
+
+.reset_btn {
+  padding: 20px;
+  border: 1px solid #0f5f7a;
+  background-color: #0f5f7a;
+  color: #fff;
+  border-radius: 15px;
+  font-size: 30px;
+  cursor: pointer;
+}
