@@ -1,0 +1,29 @@
+* {
+  background-color: #1bafe0;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  margin-top: 15%;
+  width: 100vw;
+  text-align: center;
+  letter-spacing: 15px;
+}
+
+.count {
+  font-size: 100px;
+  text-align: center;
+}
+
+.btn {
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  border: 1px solid #0f5f7a;
+  background-color: #0f5f7a;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 100px;
+  cursor: pointer;
+}
